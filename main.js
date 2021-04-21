@@ -9,3 +9,8 @@ let i = 'basem'
 let u = 'hi'
 
 let j = 8
+
+let u = 5
+
+
+let bb = 85
