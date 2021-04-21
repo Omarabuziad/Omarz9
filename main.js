@@ -14,3 +14,6 @@ let u = 5
 
 
 let bb = 85
+
+
+let k = 3
