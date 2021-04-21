@@ -4,3 +4,8 @@ console.log(arrowTitle)
 let x = 'omar'
 
 let i = 'basem'
+
+
+let u = 'hi'
+
+let j = 8
